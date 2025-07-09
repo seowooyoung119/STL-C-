@@ -2,6 +2,7 @@
 
 ## string
 - .compare(인자)
+- .length()
 
 ## vector
 - vector<데이터 타입> 배열명
