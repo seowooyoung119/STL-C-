@@ -4,7 +4,7 @@
 - .compare(인자)
 
 ## vector
-- vector<데이터 타입>
+- vector<데이터 타입> 배열명
 - push_back(인자)
 
   <br>
@@ -16,6 +16,7 @@
   <br>
 
 ## unordered_map
+- unordered_map<키, 값> 배열명
 - .find(인자)
 - .end()
 - .count(인자)
