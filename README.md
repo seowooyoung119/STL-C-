@@ -1,7 +1,11 @@
 # STL-C++
 
+## string
+- .compare(인자)
+
 ## vector
 - vector<데이터 타입>
+- push_back(인자)
 
   <br>
 
