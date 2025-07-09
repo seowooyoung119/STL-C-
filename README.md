@@ -6,7 +6,7 @@
   <br>
 
 ## utility
-- pair<인자, 인자> =n
+- pair<인자, 인자>
 - make_pair(인자, 인자)
 
   <br>
