@@ -22,3 +22,7 @@
 - .end()
 - .count(인자)
 - .contains(인자)
+
+## algorithm
+
+reserve(뒤집을 범위의 시작,뒤집을 범위의 끝); - 시간 복잡도 O(n / 2) 또는 O(n)
