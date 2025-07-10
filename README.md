@@ -33,3 +33,18 @@
 
 ## typeinfo
 - typeid()
+
+## cmath
+- round(인자) - 반올림 (주의 : 딱 0.5면? 0에서 먼쪽으로 숫자를 늘린다.)
+- ceil(인자) - 반올림
+- floor(인자) - 반올림
+
+
+## sstream
+
+- stringstream stream(s) 이후 stream >> a >> b >> c;  : 기존의 문자열을 공백으로 분리해서 데이터 타입에 맞게 캐스팅해줌
+- stringstream ss; 이후 ss << hex << 10; : 10진수 -> 16진수 (hex 라는 조작자를 쓰면 된다.)
+- stringstream ss(hexstr); 이후 ss >> hex >> a; : 10진수 <- 16진수 (hex 라는 조작자를 쓰면 된다.)
+
+
+
