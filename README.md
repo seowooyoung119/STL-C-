@@ -9,6 +9,8 @@
 - push_back(인자)
 - vector<int> 벡터명 (시작 위치, 끝위치) - 벡터배열의 일부를 잘아오고 싶을 때 새로 생성해서 가져오는 방법
 
+- [push_back vs emplace_back](https://github.com/seowooyoung119/STL-CPP/blob/main/Vector%20%EA%B4%80%EB%A0%A8%20%EC%A0%95%EB%A6%AC.md) <br>
+
   <br>
 
 ## utility
@@ -28,10 +30,13 @@
 | `empty` | `큐변수명.empty();` | 큐가 비어있는지 확인 (비었으면 true)  | O(1)     |
 
 
+## map
+[정리 문서](https://github.com/seowooyoung119/STL-CPP/blob/main/map.md)<br>
 
   <br>
 
 ## unordered_map
+[정리 문서](https://github.com/seowooyoung119/STL-CPP/blob/main/unordered_map.md) <br>
 - unordered_map<키, 값> 배열명
 - .find(인자)
 - .end()
